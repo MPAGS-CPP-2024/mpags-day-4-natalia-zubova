@@ -55,4 +55,4 @@ class CaesarCipher {
     std::size_t key_{0};
 };
 
-#endif
+#endif // MPAGSCIPHER_CAESARCIPHER_HPP
